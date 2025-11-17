@@ -1,0 +1,2 @@
+date_execution,fichiers_sources,lignes_valides,lignes_rejetees,total_lignes,transactions_uniques,pct_valides,pct_rejetees
+2025-11-12 14:39:12,"ventes_multicanal.csv, ventes_increment_2025-10.csv",5104,0,5104,5104,100.00%,0.00%
